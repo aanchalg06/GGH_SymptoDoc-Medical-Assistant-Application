@@ -41,7 +41,7 @@ Integrates a calendar date picker feature to streamline the appointment booking 
 7. Run the application on an Android device or emulator.
 
 ## Running In Android Device
-Download apk from this link: [Link of Apk]([demo_video_url](https://drive.google.com/file/d/1pIaRdROtieYsCMPOliF1mLDH6y1e4QwD/view?usp=drive_link))
+Download apk from this link: [Link of Apk](https://drive.google.com/file/d/1pIaRdROtieYsCMPOliF1mLDH6y1e4QwD/view?usp=drive_link)
 ## Demo
 [Link to demo video](demo_video_url)
 
