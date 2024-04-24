@@ -45,6 +45,6 @@ Integrates a calendar date picker feature to streamline the appointment booking 
 ## Running In Android Device
 Download apk from this link: [Link of Apk](https://drive.google.com/file/d/1pIaRdROtieYsCMPOliF1mLDH6y1e4QwD/view?usp=drive_link)
 ## Demo
-[Link to demo video]([https://drive.google.com/file/d/1v8GdXEZ-im0OWlHRoXjiRP15tCrjVZiK/view?usp=sharing](https://drive.google.com/drive/folders/1ZpGNLD5sL3GE0FqA1JGsXvsXiaFrnMOZ?usp=sharing))
+[Link to demo video](https://drive.google.com/drive/folders/1ZpGNLD5sL3GE0FqA1JGsXvsXiaFrnMOZ?usp=sharing)
 
 This application presents a comprehensive solution to healthcare recommendation, leveraging AI and modern mobile development technologies to address the evolving needs of users in the medical domain.
