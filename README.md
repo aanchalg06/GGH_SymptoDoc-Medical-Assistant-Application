@@ -34,15 +34,17 @@ Integrates a calendar date picker feature to streamline the appointment booking 
 
 1. Clone this repository
 2. Run the command `git clone https://github.com/aanchalg06/SymptoDoc.git` in terminal
-3. Open file in Android Studio
-4. Run `Make Build` in build option
-5. After successfully build gradle.
-6. Paste the api key inside of app/src/main/java/com/aanchal/symptomapp/geminidatamanager/ChatData.kt variable `api_key`.
-7. Run the application on an Android device or emulator.
+3. now run android studio and create application name of "SymptoDoc" app name using kotlin greater than 27 API verison
+4. then copy the all files in .symptodoc/ directory.
+5. update gradle file with same dependencies.
+6. Run `Make Build` in build option
+7. After successfully build gradle.
+8. Paste the api key inside of app/src/main/java/com/aanchal/symptomapp/geminidatamanager/ChatData.kt variable `api_key`.
+9. Run the application on an Android device or emulator.
 
 ## Running In Android Device
 Download apk from this link: [Link of Apk](https://drive.google.com/file/d/1pIaRdROtieYsCMPOliF1mLDH6y1e4QwD/view?usp=drive_link)
 ## Demo
-[Link to demo video](demo_video_url)
+[Link to demo video]( )
 
 This application presents a comprehensive solution to healthcare recommendation, leveraging AI and modern mobile development technologies to address the evolving needs of users in the medical domain.
