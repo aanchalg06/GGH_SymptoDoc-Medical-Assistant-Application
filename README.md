@@ -37,7 +37,7 @@ Integrates a calendar date picker feature to streamline the appointment booking 
 3. Open file in Android Studio
 4. Run `Make Build` in build option
 5. After successfully build gradle.
-6. Paste the api key inside of ChatData variable `api_key`.
+6. Paste the api key inside of app/src/main/java/com/aanchal/symptomapp/geminidatamanager/ChatData.kt variable `api_key`.
 7. Run the application on an Android device or emulator.
 
 ## Running In Android Device
